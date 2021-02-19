@@ -1,0 +1,12 @@
+0000.000 (1) Opened log file at time: Fri, 19 Feb 2021 19:31:43 +0000 on http://localhost/wordpress
+0000.003 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.33 WP: 5.6.1 PHP: 8.0.2 (apache2handler, Windows NT PRATIK 10.0 build 19041 (Windows 10) AMD64) MySQL: 10.4.17-MariaDB WPLANG: en_US Server: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/8.0.2 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 42.5M | 44M) multisite: N openssl: OpenSSL 1.1.1i  8 Dec 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.006 (1) Free space on disk containing Updraft's temporary directory: 180522.1 MB
+0000.014 (1) This backup task (ab1d1f6e4f4f) is either complete or began over 2 days ago: ending (1613763103.7234, ) (existing jobdata keys: )
+0000.000 (1) Opened log file at time: Fri, 19 Feb 2021 19:31:43 +0000 on http://localhost/wordpress
+0000.003 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.33 WP: 5.6.1 PHP: 8.0.2 (apache2handler, Windows NT PRATIK 10.0 build 19041 (Windows 10) AMD64) MySQL: 10.4.17-MariaDB WPLANG: en_US Server: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/8.0.2 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 42.5M | 44M) multisite: N openssl: OpenSSL 1.1.1i  8 Dec 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.006 (1) Free space on disk containing Updraft's temporary directory: 180522.1 MB
+0000.013 (1) This backup task (ab1d1f6e4f4f) is either complete or began over 2 days ago: ending (1613763103.766, ) (existing jobdata keys: )
+0000.000 (1) Opened log file at time: Fri, 19 Feb 2021 19:31:43 +0000 on http://localhost/wordpress
+0000.003 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.33 WP: 5.6.1 PHP: 8.0.2 (apache2handler, Windows NT PRATIK 10.0 build 19041 (Windows 10) AMD64) MySQL: 10.4.17-MariaDB WPLANG: en_US Server: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/8.0.2 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 42.5M | 44M) multisite: N openssl: OpenSSL 1.1.1i  8 Dec 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.006 (1) Free space on disk containing Updraft's temporary directory: 180523.1 MB
+0000.016 (1) This backup task (ab1d1f6e4f4f) is either complete or began over 2 days ago: ending (1613763103.8393, ) (existing jobdata keys: )

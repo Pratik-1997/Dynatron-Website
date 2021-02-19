@@ -1,0 +1,89 @@
+0000.027 (R) [notice] Looking for db archive: file name: backup_2020-10-31-0051_Dynatron_ab1d1f6e4f4f-db.gz
+0000.027 (R) [notice] Archive is expected to be size: 626.4 KB: OK
+0000.029 (R) [notice] Looking for plugins archive: file name: backup_2020-10-31-0051_Dynatron_ab1d1f6e4f4f-plugins.zip
+0000.030 (R) [notice] Archive is expected to be size: 23918.4 KB: OK
+0000.031 (R) [notice] Looking for themes archive: file name: backup_2020-10-31-0051_Dynatron_ab1d1f6e4f4f-themes.zip
+0000.031 (R) [notice] Archive is expected to be size: 1977.7 KB: OK
+0000.033 (R) [notice] Looking for uploads archive: file name: backup_2020-10-31-0051_Dynatron_ab1d1f6e4f4f-uploads.zip
+0000.033 (R) [notice] Archive is expected to be size: 29856.9 KB: OK
+0000.035 (R) [notice] Looking for others archive: file name: backup_2020-10-31-0051_Dynatron_ab1d1f6e4f4f-others.zip
+0000.035 (R) [notice] Archive is expected to be size: 2482.7 KB: OK
+0000.036 (R) [notice] Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.040 (R) [notice] Unpacking backup... (backup_2020-10-31-0051_Dynatron_ab1d1f6e4f4f-db.gz, 0.6 Mb)
+0000.045 (R) [notice] Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.115 (R) [notice] Enabling Maintenance mode&#8230;
+0000.159 (R) [notice] Backup of: http://localhost/wordpress
+0000.160 (R) [notice] Content URL: http://localhost/wordpress/wp-content
+0000.160 (R) [notice] Uploads URL: http://localhost/wordpress/wp-content/uploads
+0000.160 (R) [notice] Old table prefix: wp_
+0000.160 (R) [notice] Site information: multisite = 0
+0000.160 (R) [notice] Site information: sql_mode = NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0000.161 (R) [notice] New table prefix: wp_
+0000.178 (R) [notice] Processing table (InnoDB):  wp_options
+0000.384 (R) [notice] Processing table (InnoDB):  wp_users
+0000.443 (R) [notice] Processing table (InnoDB):  wp_usermeta
+0000.480 (R) [notice] Processing table (InnoDB):  wp_actionscheduler_actions
+0000.575 (R) [notice] Processing table (InnoDB):  wp_actionscheduler_claims
+0000.607 (R) [notice] Processing table (InnoDB):  wp_actionscheduler_groups
+0000.643 (R) [notice] Processing table (InnoDB):  wp_actionscheduler_logs
+0000.708 (R) [notice] Processing table (InnoDB):  wp_commentmeta
+0000.755 (R) [notice] Processing table (InnoDB):  wp_comments
+0000.819 (R) [notice] Processing table (InnoDB):  wp_links
+0000.863 (R) [notice] Processing table (InnoDB):  wp_postmeta
+0001.117 (R) [notice] Processing table (InnoDB):  wp_posts
+0001.282 (R) [notice] Database queries processed: 50 in 1.24 seconds
+0001.282 (R) [notice] Skipping table wp_term_relationships: user has chosen not to restore this table
+0001.300 (R) [notice] Processing table (InnoDB):  wp_term_taxonomy
+0001.357 (R) [notice] Processing table (InnoDB):  wp_termmeta
+0001.408 (R) [notice] Processing table (InnoDB):  wp_terms
+0001.451 (R) [notice] Processing table (InnoDB):  wp_wfblockediplog
+0001.480 (R) [notice] Processing table (InnoDB):  wp_wfblocks7
+0001.520 (R) [notice] Processing table (InnoDB):  wp_wfconfig
+0001.557 (R) [notice] Processing table (InnoDB):  wp_wfcrawlers
+0001.601 (R) [notice] Processing table (InnoDB):  wp_wffilechanges
+0001.648 (R) [notice] Processing table (InnoDB):  wp_wffilemods
+0001.691 (R) [notice] Processing table (InnoDB):  wp_wfhits
+0001.770 (R) [notice] Processing table (InnoDB):  wp_wfhoover
+0001.803 (R) [notice] Processing table (InnoDB):  wp_wfissues
+0001.843 (R) [notice] Processing table (InnoDB):  wp_wfknownfilelist
+0001.870 (R) [notice] Processing table (InnoDB):  wp_wflivetraffichuman
+0001.902 (R) [notice] Processing table (InnoDB):  wp_wflocs
+0001.936 (R) [notice] Processing table (InnoDB):  wp_wflogins
+0001.970 (R) [notice] Processing table (InnoDB):  wp_wfls_2fa_secrets
+0002.002 (R) [notice] Processing table (InnoDB):  wp_wfls_settings
+0002.043 (R) [notice] Processing table (InnoDB):  wp_wfnotifications
+0002.077 (R) [notice] Processing table (InnoDB):  wp_wfpendingissues
+0002.116 (R) [notice] Database queries processed: 100 in 2.07 seconds
+0002.116 (R) [notice] Processing table (InnoDB):  wp_wfreversecache
+0002.156 (R) [notice] Processing table (InnoDB):  wp_wfsnipcache
+0002.192 (R) [notice] Processing table (InnoDB):  wp_wfstatus
+0002.234 (R) [notice] Processing table (InnoDB):  wp_wftrafficrates
+0002.263 (R) [notice] Processing table (InnoDB):  wp_wpforms_tasks_meta
+0002.306 (R) [notice] Processing table (InnoDB):  wp_wpmailsmtp_tasks_meta
+0002.606 (R) [notice] Disabling Maintenance mode&#8230;
+0002.607 (R) [notice] Finished: lines processed: 118 in 2.56 seconds
+0002.607 (R) [notice] Cleaning up rubbish...
+0002.617 (R) [notice] Unpacking backup... (backup_2020-10-31-0051_Dynatron_ab1d1f6e4f4f-plugins.zip, 23.4 MB)
+0004.442 (R) [notice] Unzip progress: 1002 out of 5069 files (5.3 MB, plugins/addons-for-elementor/freemius/languages/freemius-zh_CN.mo)
+0014.182 (R) [notice] Unzip progress: 2003 out of 5069 files (27.3 MB, plugins/header-footer-elementor/inc/lib/target-rule/i18n/ca.js)
+0021.881 (R) [notice] Unzip progress: 3004 out of 5069 files (49.9 MB, plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Service/Command/LocationVisitor/Request/JsonVisitor.php)
+0029.939 (R) [notice] Unzip progress: 4005 out of 5069 files (56.2 MB, plugins/wp-mail-smtp/vendor_prefixed/monolog/monolog/src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php)
+0037.588 (R) [notice] Unzip progress: 5006 out of 5069 files (73 MB, plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/ActionScheduler_DataController.php)
+0038.050 (R) [notice] Unzip progress: 5069 out of 5069 files (73.3 MB, plugins/wpforms-lite/wpforms.php)
+0038.052 (R) [notice] Moving old data out of the way...
+0038.194 (R) [notice] Moving unpacked backup into place...
+0038.638 (R) [notice] Cleaning up rubbish...
+0038.646 (R) [notice] Unpacking backup... (backup_2020-10-31-0051_Dynatron_ab1d1f6e4f4f-themes.zip, 1.9 MB)
+0042.407 (R) [notice] Unzip progress: 600 out of 600 files (6.7 MB, themes/twentytwenty/templates/template-full-width.php)
+0042.408 (R) [notice] Moving old data out of the way...
+0042.475 (R) [notice] Moving unpacked backup into place...
+0042.533 (R) [notice] Cleaning up rubbish...
+0042.540 (R) [notice] Unpacking backup... (backup_2020-10-31-0051_Dynatron_ab1d1f6e4f4f-uploads.zip, 29.2 MB)
+0043.138 (R) [notice] Unzip progress: 199 out of 199 files (29.2 MB, uploads/elementor/css/post-92.css)
+0043.139 (R) [notice] Moving old data out of the way...
+0043.140 (R) [notice] Moving unpacked backup into place...
+0043.157 (R) [notice] Cleaning up rubbish...
+0043.163 (R) [notice] Unpacking backup... (backup_2020-10-31-0051_Dynatron_ab1d1f6e4f4f-others.zip, 2.4 MB)
+0043.255 (R) [notice] Unzip progress: 12 out of 12 files (5.4 MB, wflogs/template.php)
+0043.257 (R) [notice] Cleaning up rubbish...
+0043.277 (R) [notice] Restore successful!
